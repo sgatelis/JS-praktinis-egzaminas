@@ -1,0 +1,27 @@
+* {
+margin: 0;
+padding: 0;
+font-family: arial;
+}
+
+body {
+    background-color: yellow;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: blue;
+}
+
+a {
+    background: blue;
+    color: whitesmoke;
+    width: 50px;
+    padding: 9px 25px;
+    text-decoration: none;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;    
+    margin: 10px auto;
+}
